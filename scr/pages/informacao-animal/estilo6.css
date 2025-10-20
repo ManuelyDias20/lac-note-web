@@ -4,7 +4,18 @@ body {
     background-color: #f1d392;
     font-family: Arial, sans-serif;
 }
-
+select {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 6px;
+  background-color: #b4b97b;
+  text-align: center;
+  font-size: 1em;
+  color: #333;
+}
 .container {
     display: flex;
     flex-direction: column;

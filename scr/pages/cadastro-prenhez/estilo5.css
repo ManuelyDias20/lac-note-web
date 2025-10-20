@@ -4,7 +4,9 @@ body {
     background-color: #f1d392;
     font-family: Arial, sans-serif;
 }
-
+a{
+    color: #ece9e2;
+}
 .container {
     display: flex;
     flex-direction: column;

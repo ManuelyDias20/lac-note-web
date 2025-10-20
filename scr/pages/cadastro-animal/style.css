@@ -4,7 +4,9 @@ body {
     background-color: #f1d392;
     font-family: Arial, sans-serif;
 }
-
+a{
+    color: #ece9e2;
+}
 .container {
     display: flex;
     flex-direction: column;
@@ -29,7 +31,7 @@ body {
 .voltar {
     font-size: 1.5em;
     cursor: pointer;
-    color: #333;
+    color: #ffffff;
 }
 
 .logo-container {
@@ -53,7 +55,7 @@ form {
 .label {
     margin-bottom: 5px;
     font-weight: bold;
-    color: #333;
+    color: #232323;
 }
 
 .animalb {
@@ -66,8 +68,6 @@ form {
     font-size: 1em;
     color: #333;
 }
-
-
 
 input[type="text"], 
 input[type="date"] {
