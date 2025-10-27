@@ -87,6 +87,22 @@ input::placeholder {
     font-weight: bold;
 }
 
+.botoesVoltar{
+     width: 200px;
+  padding: 10px;
+  margin: 6px 0;
+  background-color: #556b2f;
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+ .botoesVoltar:hover{
+    background-color: #6a8235;
+ }
+
 .botao {
     align-self: flex-end;
     padding: 8px 20px;

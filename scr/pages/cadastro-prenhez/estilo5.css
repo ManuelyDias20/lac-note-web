@@ -100,10 +100,25 @@ input::placeholder {
     border: none;
     border-radius: 20px;
     cursor: pointer;
-    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 3px 5px rgba(255, 255, 255, 0.3);
     transition: background-color 0.3s ease;
 }
 
 .botao:hover {
     background-color: #445522;
 }
+.botoesVoltar{
+     width: 200px;
+  padding: 10px;
+  margin: 6px 0;
+  background-color: #556b2f;
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+ .botoesVoltar:hover{
+    background-color: #6a8235;
+ }

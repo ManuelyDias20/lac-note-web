@@ -68,6 +68,12 @@ input::placeholder {
   cursor: pointer;
 }
 
+a {
+color: white;
+text-decoration: None;
+}
+
 .btn:hover {
   background-color: #6a8235;
 }
+
